@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\bin\Debug\net8.0\Operatorler.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\bin\Debug\net8.0\Operatorler.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\bin\Debug\net8.0\Operatorler.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\bin\Debug\net8.0\Operatorler.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\bin\Debug\net8.0\Operatorler.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\refint\Operatorler.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\Operatorler.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Operatorler\obj\Debug\net8.0\ref\Operatorler.dll
